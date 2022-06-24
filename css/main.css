@@ -3,7 +3,7 @@ body{margin: 0px; padding: 0px;}
 .content{width: 100%; padding: 0 5%; box-sizing: border-box;}
 .btn_area{margin: 80px 0;}
 .btn_area a{text-decoration: none;}
-.smart_btn{background-color: #ec4237;
+/* .smart_btn{background-color: #ec4237;
     border: none;
     border-radius: 80px;
     height: 70px;
@@ -13,7 +13,7 @@ body{margin: 0px; padding: 0px;}
     align-items: center;
     text-decoration: none;
     font-size: 24px;
-    font-weight: 600;}
+    font-weight: 600;} */
 .btn_area img{width: 300px;}
 
 @media(max-width:424px) {
